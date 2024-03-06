@@ -1,6 +1,6 @@
 # Productivity Tracker
 
 ## ToDo
-- [ ] Window tracker
+- [X] Window tracker
 - [ ] GUI
 - [ ] Visualizations
