@@ -1,6 +1,6 @@
 # Productivity Tracker
 
 ## ToDo
-- [ ] Basic window tracker
-- [ ] Implement small GUI
-- [ ] Create visualizations
+- [ ] Window tracker
+- [ ] GUI
+- [ ] Visualizations
